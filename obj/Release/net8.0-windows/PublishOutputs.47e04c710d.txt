@@ -1,0 +1,5 @@
+C:\Users\striv\source\repos\InventoryApp - Copy (3)\InventoryApp.exe
+C:\Users\striv\source\repos\InventoryApp - Copy (3)\InventoryApp.dll
+C:\Users\striv\source\repos\InventoryApp - Copy (3)\InventoryApp.deps.json
+C:\Users\striv\source\repos\InventoryApp - Copy (3)\InventoryApp.runtimeconfig.json
+C:\Users\striv\source\repos\InventoryApp - Copy (3)\InventoryApp.pdb
